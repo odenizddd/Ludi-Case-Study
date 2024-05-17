@@ -1,0 +1,52 @@
+{
+  "simulations": [
+    {
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "company_id": 4,
+      "company_name": "Arabam"
+    },
+    {
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "company_id": 2,
+      "company_name": "Loreal Türkiye"
+    },
+    {
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "company_id": 3,
+      "company_name": "Bain"
+    },
+    {
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "company_id": 1,
+      "company_name": "Ludi Inhouse"
+    },
+    {
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "company_id": 5,
+      "company_name": "Getmobil"
+    },
+    {
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "company_id": 1,
+      "company_name": "Ludi Inhouse"
+    },
+    {
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "company_id": 1,
+      "company_name": "Ludi Inhouse"
+    },
+    {
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "company_id": 6,
+      "company_name": "Lonca"
+    }
+  ]
+}

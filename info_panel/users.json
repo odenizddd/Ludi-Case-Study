@@ -1,0 +1,2704 @@
+{
+  "users": [
+    {
+      "user_id": 35675,
+      "user_name": "Ahmet",
+      "user_surname": "Yılmaz",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45270.59853009259,
+      "progress_percent": 37
+    },
+    {
+      "user_id": 84329,
+      "user_name": "Burak",
+      "user_surname": "Kaya",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45259.9421875,
+      "progress_percent": 81
+    },
+    {
+      "user_id": 46259,
+      "user_name": "Cemre",
+      "user_surname": "Öztürk",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45245.23972222222,
+      "progress_percent": 59
+    },
+    {
+      "user_id": 61478,
+      "user_name": "Deniz",
+      "user_surname": "Aydoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45233.78925925926,
+      "progress_percent": 82
+    },
+    {
+      "user_id": 78014,
+      "user_name": "Elif",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45281.52107638889,
+      "progress_percent": 61
+    },
+    {
+      "user_id": 91372,
+      "user_name": "Fatih",
+      "user_surname": "Demir",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45263.88179398148,
+      "progress_percent": 46
+    },
+    {
+      "user_id": 51204,
+      "user_name": "Gamze",
+      "user_surname": "Erdoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45255.126597222225,
+      "progress_percent": 84
+    },
+    {
+      "user_id": 33579,
+      "user_name": "Hakan",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45271.58887731482,
+      "progress_percent": 42
+    },
+    {
+      "user_id": 68888,
+      "user_name": "Irmak",
+      "user_surname": "Arslan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45231.36153935185,
+      "progress_percent": 86
+    },
+    {
+      "user_id": 25391,
+      "user_name": "Jale",
+      "user_surname": "Atalay",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45250.45329861111,
+      "progress_percent": 11
+    },
+    {
+      "user_id": 55746,
+      "user_name": "Mehmet",
+      "user_surname": "Tekin",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45265.73991898148,
+      "progress_percent": 32
+    },
+    {
+      "user_id": 81953,
+      "user_name": "Seda",
+      "user_surname": "Kaya",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45237.39738425926,
+      "progress_percent": 82
+    },
+    {
+      "user_id": 44377,
+      "user_name": "Gökhan",
+      "user_surname": "Yılmaz",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45276.59641203703,
+      "progress_percent": 92
+    },
+    {
+      "user_id": 71691,
+      "user_name": "Sevda",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45254.08792824074,
+      "progress_percent": 64
+    },
+    {
+      "user_id": 67922,
+      "user_name": "Efe",
+      "user_surname": "Cem",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45289.8299537037,
+      "progress_percent": 40
+    },
+    {
+      "user_id": 29506,
+      "user_name": "Emine",
+      "user_surname": "Aydın",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45278.47851851852,
+      "progress_percent": 74
+    },
+    {
+      "user_id": 83144,
+      "user_name": "Emre",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45267.28010416667,
+      "progress_percent": 91
+    },
+    {
+      "user_id": 42896,
+      "user_name": "Merve",
+      "user_surname": "Toprak",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45243.57958333333,
+      "progress_percent": 27
+    },
+    {
+      "user_id": 69047,
+      "user_name": "Furkan",
+      "user_surname": "Güler",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45232.68601851852,
+      "progress_percent": 78
+    },
+    {
+      "user_id": 17881,
+      "user_name": "Selin",
+      "user_surname": "Öztürk",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45244.9266087963,
+      "progress_percent": 56
+    },
+    {
+      "user_id": 74928,
+      "user_name": "İrem",
+      "user_surname": "Ay",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45283.5859375,
+      "progress_percent": 86
+    },
+    {
+      "user_id": 98237,
+      "user_name": "Burcu",
+      "user_surname": "Yılmaz",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45231.826527777775,
+      "progress_percent": 15
+    },
+    {
+      "user_id": 61940,
+      "user_name": "Taylan",
+      "user_surname": "Kaya",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45241.15033564815,
+      "progress_percent": 87
+    },
+    {
+      "user_id": 53792,
+      "user_name": "Mert",
+      "user_surname": "Tekin",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45257.84853009259,
+      "progress_percent": 59
+    },
+    {
+      "user_id": 46015,
+      "user_name": "Gülay",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45262.40052083333,
+      "progress_percent": 92
+    },
+    {
+      "user_id": 34139,
+      "user_name": "Gül",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45251.23972222222,
+      "progress_percent": 34
+    },
+    {
+      "user_id": 77467,
+      "user_name": "Ömer",
+      "user_surname": "Erdoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45275.78925925926,
+      "progress_percent": 42
+    },
+    {
+      "user_id": 69281,
+      "user_name": "Yasemin",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45239.52107638889,
+      "progress_percent": 29
+    },
+    {
+      "user_id": 42343,
+      "user_name": "Gökçe",
+      "user_surname": "Arslan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45264.88179398148,
+      "progress_percent": 83
+    },
+    {
+      "user_id": 83690,
+      "user_name": "Baran",
+      "user_surname": "Atalay",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45286.126597222225,
+      "progress_percent": 16
+    },
+    {
+      "user_id": 48586,
+      "user_name": "Gözde",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45247.58887731482,
+      "progress_percent": 62
+    },
+    {
+      "user_id": 69738,
+      "user_name": "Şule",
+      "user_surname": "Güneş",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45257.36153935185,
+      "progress_percent": 40
+    },
+    {
+      "user_id": 21249,
+      "user_name": "Burhan",
+      "user_surname": "Yılmaz",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45235.45329861111,
+      "progress_percent": 11
+    },
+    {
+      "user_id": 56016,
+      "user_name": "Cansu",
+      "user_surname": "Arslan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45272.73991898148,
+      "progress_percent": 35
+    },
+    {
+      "user_id": 36824,
+      "user_name": "Tuna",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45249.39738425926,
+      "progress_percent": 3
+    },
+    {
+      "user_id": 89931,
+      "user_name": "Ece",
+      "user_surname": "Tekin",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45290.59641203703,
+      "progress_percent": 21
+    },
+    {
+      "user_id": 66163,
+      "user_name": "İlkay",
+      "user_surname": "Kaya",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45281.08792824074,
+      "progress_percent": 86
+    },
+    {
+      "user_id": 52907,
+      "user_name": "Gülşen",
+      "user_surname": "Avcı",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45238.31438657407,
+      "progress_percent": 73
+    },
+    {
+      "user_id": 69258,
+      "user_name": "Furkan",
+      "user_surname": "Yılmaz",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45255.85796296296,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 81784,
+      "user_name": "Dilan",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45275.12863425926,
+      "progress_percent": 61
+    },
+    {
+      "user_id": 17492,
+      "user_name": "Berk",
+      "user_surname": "Arslan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45282.42542824074,
+      "progress_percent": 69
+    },
+    {
+      "user_id": 69631,
+      "user_name": "Melike",
+      "user_surname": "Erdoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45289.60402777778,
+      "progress_percent": 63
+    },
+    {
+      "user_id": 42165,
+      "user_name": "Zeynep",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45252.71011574074,
+      "progress_percent": 18
+    },
+    {
+      "user_id": 62390,
+      "user_name": "Bahadır",
+      "user_surname": "Toprak",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45239.75994212963,
+      "progress_percent": 45
+    },
+    {
+      "user_id": 87419,
+      "user_name": "Pelin",
+      "user_surname": "Güler",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45246.96196759259,
+      "progress_percent": 58
+    },
+    {
+      "user_id": 59614,
+      "user_name": "Ayhan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45291.40607638889,
+      "progress_percent": 63
+    },
+    {
+      "user_id": 48897,
+      "user_name": "Tuğba",
+      "user_surname": "Yılmaz",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45258.16291666667,
+      "progress_percent": 10
+    },
+    {
+      "user_id": 74726,
+      "user_name": "Fatma",
+      "user_surname": "Erdoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45249.477685185186,
+      "progress_percent": 55
+    },
+    {
+      "user_id": 16548,
+      "user_name": "Halit",
+      "user_surname": "Kaya",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45244.84327546296,
+      "progress_percent": 96
+    },
+    {
+      "user_id": 83713,
+      "user_name": "Bilge",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45264.14019675926,
+      "progress_percent": 16
+    },
+    {
+      "user_id": 69159,
+      "user_name": "Levent",
+      "user_surname": "Arslan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45287.52552083333,
+      "progress_percent": 77
+    },
+    {
+      "user_id": 55492,
+      "user_name": "Şeyma",
+      "user_surname": "Güler",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45270.90638888889,
+      "progress_percent": 63
+    },
+    {
+      "user_id": 91835,
+      "user_name": "Elvan",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45237.66425925926,
+      "progress_percent": 19
+    },
+    {
+      "user_id": 49616,
+      "user_name": "Ferit",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45233.52107638889,
+      "progress_percent": 63
+    },
+    {
+      "user_id": 76823,
+      "user_name": "Duygu",
+      "user_surname": "Arslan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45281.88179398148,
+      "progress_percent": 80
+    },
+    {
+      "user_id": 35149,
+      "user_name": "Betül",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45255.376597222225,
+      "progress_percent": 74
+    },
+    {
+      "user_id": 60784,
+      "user_name": "Emirhan",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45243.58887731482,
+      "progress_percent": 87
+    },
+    {
+      "user_id": 50342,
+      "user_name": "Müge",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45231.36153935185,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 68850,
+      "user_name": "Alperen",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45248.45329861111,
+      "progress_percent": 63
+    },
+    {
+      "user_id": 27457,
+      "user_name": "Mehpare",
+      "user_surname": "Ay",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45248.494039351855,
+      "progress_percent": 96
+    },
+    {
+      "user_id": 86731,
+      "user_name": "Harun",
+      "user_surname": "Kaya",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45270.39738425926,
+      "progress_percent": 77
+    },
+    {
+      "user_id": 54960,
+      "user_name": "Dilara",
+      "user_surname": "Aydoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45254.59641203703,
+      "progress_percent": 18
+    },
+    {
+      "user_id": 43173,
+      "user_name": "Barış",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45289.08792824074,
+      "progress_percent": 98
+    },
+    {
+      "user_id": 79328,
+      "user_name": "Gamze",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45255.8299537037,
+      "progress_percent": 9
+    },
+    {
+      "user_id": 65382,
+      "user_name": "Caner",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45261.47851851852,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 79874,
+      "user_name": "Zara",
+      "user_surname": "Arslan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45240.28010416667,
+      "progress_percent": 47
+    },
+    {
+      "user_id": 60235,
+      "user_name": "İclal",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45245.57958333333,
+      "progress_percent": 42
+    },
+    {
+      "user_id": 37520,
+      "user_name": "Erdem",
+      "user_surname": "Güneş",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45248.68601851852,
+      "progress_percent": 68
+    },
+    {
+      "user_id": 95761,
+      "user_name": "Can",
+      "user_surname": "Yılmaz",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45253.9266087963,
+      "progress_percent": 96
+    },
+    {
+      "user_id": 60914,
+      "user_name": "Ayşe",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45257.5859375,
+      "progress_percent": 48
+    },
+    {
+      "user_id": 78405,
+      "user_name": "Cansel",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45264.826527777775,
+      "progress_percent": 96
+    },
+    {
+      "user_id": 84620,
+      "user_name": "Aytaç",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45274.15033564815,
+      "progress_percent": 98
+    },
+    {
+      "user_id": 52815,
+      "user_name": "Sevim",
+      "user_surname": "Erdoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45256.84853009259,
+      "progress_percent": 10
+    },
+    {
+      "user_id": 65246,
+      "user_name": "Çağla",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45238.40052083333,
+      "progress_percent": 74
+    },
+    {
+      "user_id": 81729,
+      "user_name": "Kaan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45275.23972222222,
+      "progress_percent": 34
+    },
+    {
+      "user_id": 42944,
+      "user_name": "Mesut",
+      "user_surname": "Yıldırım",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45262.52107638889,
+      "progress_percent": 79
+    },
+    {
+      "user_id": 36419,
+      "user_name": "Esra",
+      "user_surname": "Kaya",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45240.88179398148,
+      "progress_percent": 41
+    },
+    {
+      "user_id": 97583,
+      "user_name": "Ali",
+      "user_surname": "Arslan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45277.126597222225,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 69807,
+      "user_name": "Ezel",
+      "user_surname": "Erdoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45259.78925925926,
+      "progress_percent": 21
+    },
+    {
+      "user_id": 83152,
+      "user_name": "Soner",
+      "user_surname": "Koç",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45250.52552083333,
+      "progress_percent": 37
+    },
+    {
+      "user_id": 54617,
+      "user_name": "Cemal",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45265.90638888889,
+      "progress_percent": 42
+    },
+    {
+      "user_id": 73928,
+      "user_name": "Dilber",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45287.78925925926,
+      "progress_percent": 94
+    },
+    {
+      "user_id": 47441,
+      "user_name": "Seren",
+      "user_surname": "Kaya",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45231.477685185186,
+      "progress_percent": 61
+    },
+    {
+      "user_id": 67520,
+      "user_name": "Ali",
+      "user_surname": "Güneş",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45247.59641203703,
+      "progress_percent": 38
+    },
+    {
+      "user_id": 18935,
+      "user_name": "Özlem",
+      "user_surname": "Erdoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45281.376597222225,
+      "progress_percent": 50
+    },
+    {
+      "user_id": 84769,
+      "user_name": "Kerem",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45290.23972222222,
+      "progress_percent": 54
+    },
+    {
+      "user_id": 36294,
+      "user_name": "Müberra",
+      "user_surname": "Kaya",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45245.45329861111,
+      "progress_percent": 94
+    },
+    {
+      "user_id": 51459,
+      "user_name": "Murat",
+      "user_surname": "Erdoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45253.73991898148,
+      "progress_percent": 91
+    },
+    {
+      "user_id": 72922,
+      "user_name": "Yıldırım",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45259.439050925925,
+      "progress_percent": 53
+    },
+    {
+      "user_id": 95037,
+      "user_name": "Buse",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45272.88179398148,
+      "progress_percent": 56
+    },
+    {
+      "user_id": 68706,
+      "user_name": "Fatih",
+      "user_surname": "Kaya",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45235.40052083333,
+      "progress_percent": 1
+    },
+    {
+      "user_id": 32863,
+      "user_name": "Berrak",
+      "user_surname": "Erdoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45242.23972222222,
+      "progress_percent": 72
+    },
+    {
+      "user_id": 79110,
+      "user_name": "Alp",
+      "user_surname": "Yıldırım",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45278.52107638889,
+      "progress_percent": 85
+    },
+    {
+      "user_id": 64692,
+      "user_name": "Ceylan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45257.88179398148,
+      "progress_percent": 38
+    },
+    {
+      "user_id": 32871,
+      "user_name": "Merve",
+      "user_surname": "Kaya",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45265.126597222225,
+      "progress_percent": 39
+    },
+    {
+      "user_id": 48314,
+      "user_name": "Arda",
+      "user_surname": "Arslan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45281.57958333333,
+      "progress_percent": 5
+    },
+    {
+      "user_id": 69175,
+      "user_name": "Melis",
+      "user_surname": "Yılmaz",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45243.8299537037,
+      "progress_percent": 81
+    },
+    {
+      "user_id": 59781,
+      "user_name": "Emel",
+      "user_surname": "Erdoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45249.47851851852,
+      "progress_percent": 21
+    },
+    {
+      "user_id": 84916,
+      "user_name": "Sami",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45257.28010416667,
+      "progress_percent": 31
+    },
+    {
+      "user_id": 41649,
+      "user_name": "Elif",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45267.57958333333,
+      "progress_percent": 83
+    },
+    {
+      "user_id": 64210,
+      "user_name": "Yeliz",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45232.78925925926,
+      "progress_percent": 42
+    },
+    {
+      "user_id": 75128,
+      "user_name": "Doğan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45279.477685185186,
+      "progress_percent": 3
+    },
+    {
+      "user_id": 69593,
+      "user_name": "Zeliha",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45238.40052083333,
+      "progress_percent": 34
+    },
+    {
+      "user_id": 56860,
+      "user_name": "Hacer",
+      "user_surname": "Kaya",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45252.23972222222,
+      "progress_percent": 41
+    },
+    {
+      "user_id": 49224,
+      "user_name": "Alp",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45261.52107638889,
+      "progress_percent": 49
+    },
+    {
+      "user_id": 72855,
+      "user_name": "Begüm",
+      "user_surname": "Erdoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45240.88179398148,
+      "progress_percent": 36
+    },
+    {
+      "user_id": 81549,
+      "user_name": "Mücahit",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45276.126597222225,
+      "progress_percent": 39
+    },
+    {
+      "user_id": 62114,
+      "user_name": "Seren",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45255.37259259259,
+      "progress_percent": 71
+    },
+    {
+      "user_id": 46579,
+      "user_name": "Büşra",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45259.5859375,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 68366,
+      "user_name": "Ali",
+      "user_surname": "Kaya",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45262.826527777775,
+      "progress_percent": 56
+    },
+    {
+      "user_id": 37923,
+      "user_name": "Deniz",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45237.15033564815,
+      "progress_percent": 23
+    },
+    {
+      "user_id": 95370,
+      "user_name": "Berk",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45275.84853009259,
+      "progress_percent": 75
+    },
+    {
+      "user_id": 61637,
+      "user_name": "Nazlı",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45243.40052083333,
+      "progress_percent": 8
+    },
+    {
+      "user_id": 71808,
+      "user_name": "Yunus",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45281.23972222222,
+      "progress_percent": 65
+    },
+    {
+      "user_id": 48384,
+      "user_name": "Zara",
+      "user_surname": "Kaya",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45288.52107638889,
+      "progress_percent": 28
+    },
+    {
+      "user_id": 84552,
+      "user_name": "Mustafa",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45244.88179398148,
+      "progress_percent": 81
+    },
+    {
+      "user_id": 58196,
+      "user_name": "Meral",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45233.126597222225,
+      "progress_percent": 17
+    },
+    {
+      "user_id": 46743,
+      "user_name": "Ozan",
+      "user_surname": "Koç",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45286.78925925926,
+      "progress_percent": 40
+    },
+    {
+      "user_id": 79315,
+      "user_name": "Pelin",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45232.60402777778,
+      "progress_percent": 79
+    },
+    {
+      "user_id": 62180,
+      "user_name": "Emre",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45238.08792824074,
+      "progress_percent": 82
+    },
+    {
+      "user_id": 75937,
+      "user_name": "Betül",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45245.90638888889,
+      "progress_percent": 32
+    },
+    {
+      "user_id": 49700,
+      "user_name": "Eren",
+      "user_surname": "Aydoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45259.78925925926,
+      "progress_percent": 70
+    },
+    {
+      "user_id": 63102,
+      "user_name": "Özge",
+      "user_surname": "Yıldırım",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45236.5859375,
+      "progress_percent": 99
+    },
+    {
+      "user_id": 38436,
+      "user_name": "Tarık",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45283.84853009259,
+      "progress_percent": 17
+    },
+    {
+      "user_id": 98879,
+      "user_name": "Nihal",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45271.40052083333,
+      "progress_percent": 63
+    },
+    {
+      "user_id": 71326,
+      "user_name": "Gökhan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45278.23972222222,
+      "progress_percent": 29
+    },
+    {
+      "user_id": 52784,
+      "user_name": "Hazal",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45252.52107638889,
+      "progress_percent": 47
+    },
+    {
+      "user_id": 64231,
+      "user_name": "Nazlı",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45231.88179398148,
+      "progress_percent": 26
+    },
+    {
+      "user_id": 87468,
+      "user_name": "Ezgi",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45290.15033564815,
+      "progress_percent": 1
+    },
+    {
+      "user_id": 59827,
+      "user_name": "Taha",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45247.88179398148,
+      "progress_percent": 7
+    },
+    {
+      "user_id": 46284,
+      "user_name": "Zehra",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45255.477685185186,
+      "progress_percent": 60
+    },
+    {
+      "user_id": 75923,
+      "user_name": "Semih",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45243.40052083333,
+      "progress_percent": 0
+    },
+    {
+      "user_id": 61809,
+      "user_name": "Özgür",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45263.78925925926,
+      "progress_percent": 95
+    },
+    {
+      "user_id": 49462,
+      "user_name": "Nisa",
+      "user_surname": "Kaya",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45249.126597222225,
+      "progress_percent": 10
+    },
+    {
+      "user_id": 86533,
+      "user_name": "Meltem",
+      "user_surname": "Erdoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45261.78925925926,
+      "progress_percent": 17
+    },
+    {
+      "user_id": 73190,
+      "user_name": "Kaan",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45252.73991898148,
+      "progress_percent": 6
+    },
+    {
+      "user_id": 52431,
+      "user_name": "Nur",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45289.28010416667,
+      "progress_percent": 29
+    },
+    {
+      "user_id": 68122,
+      "user_name": "Murat",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45275.90638888889,
+      "progress_percent": 83
+    },
+    {
+      "user_id": 93917,
+      "user_name": "Gizem",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45238.40052083333,
+      "progress_percent": 28
+    },
+    {
+      "user_id": 58206,
+      "user_name": "Selim",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45255.16291666667,
+      "progress_percent": 80
+    },
+    {
+      "user_id": 41615,
+      "user_name": "Gözde",
+      "user_surname": "Kaya",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45232.52107638889,
+      "progress_percent": 38
+    },
+    {
+      "user_id": 69374,
+      "user_name": "Tugay",
+      "user_surname": "Erdoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45244.88179398148,
+      "progress_percent": 82
+    },
+    {
+      "user_id": 85770,
+      "user_name": "Burcu",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45281.78925925926,
+      "progress_percent": 6
+    },
+    {
+      "user_id": 59123,
+      "user_name": "Samet",
+      "user_surname": "Koç",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45233.126597222225,
+      "progress_percent": 40
+    },
+    {
+      "user_id": 43889,
+      "user_name": "İpek",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45279.45329861111,
+      "progress_percent": 61
+    },
+    {
+      "user_id": 73904,
+      "user_name": "Cem",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45237.73991898148,
+      "progress_percent": 29
+    },
+    {
+      "user_id": 62549,
+      "user_name": "Şeyma",
+      "user_surname": "Kaya",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45246.439050925925,
+      "progress_percent": 49
+    },
+    {
+      "user_id": 89255,
+      "user_name": "Oktay",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45256.52552083333,
+      "progress_percent": 35
+    },
+    {
+      "user_id": 50768,
+      "user_name": "Gülsüm",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45272.90638888889,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 68101,
+      "user_name": "Büşra",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45239.40052083333,
+      "progress_percent": 25
+    },
+    {
+      "user_id": 41938,
+      "user_name": "Burak",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45249.84853009259,
+      "progress_percent": 47
+    },
+    {
+      "user_id": 59495,
+      "user_name": "Mete",
+      "user_surname": "Erdoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45288.15033564815,
+      "progress_percent": 17
+    },
+    {
+      "user_id": 74960,
+      "user_name": "Göknur",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45236.84853009259,
+      "progress_percent": 39
+    },
+    {
+      "user_id": 68146,
+      "user_name": "Mehmet",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45241.5859375,
+      "progress_percent": 34
+    },
+    {
+      "user_id": 89832,
+      "user_name": "Berfin",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45275.78925925926,
+      "progress_percent": 75
+    },
+    {
+      "user_id": 45867,
+      "user_name": "İrem",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45250.52552083333,
+      "progress_percent": 58
+    },
+    {
+      "user_id": 60724,
+      "user_name": "Tuna",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45235.90638888889,
+      "progress_percent": 74
+    },
+    {
+      "user_id": 81481,
+      "user_name": "Gonca",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45290.28010416667,
+      "progress_percent": 77
+    },
+    {
+      "user_id": 36137,
+      "user_name": "Kemal",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45244.57958333333,
+      "progress_percent": 31
+    },
+    {
+      "user_id": 75614,
+      "user_name": "Betül",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45252.73991898148,
+      "progress_percent": 65
+    },
+    {
+      "user_id": 63520,
+      "user_name": "Gülay",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45239.39738425926,
+      "progress_percent": 12
+    },
+    {
+      "user_id": 50893,
+      "user_name": "Bora",
+      "user_surname": "Koç",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45257.45329861111,
+      "progress_percent": 90
+    },
+    {
+      "user_id": 48275,
+      "user_name": "Aydan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45264.84327546296,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 76409,
+      "user_name": "Murat",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45248.60402777778,
+      "progress_percent": 40
+    },
+    {
+      "user_id": 52928,
+      "user_name": "Betül",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45287.477685185186,
+      "progress_percent": 39
+    },
+    {
+      "user_id": 60347,
+      "user_name": "Melis",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45231.40052083333,
+      "progress_percent": 65
+    },
+    {
+      "user_id": 41518,
+      "user_name": "Mustafa",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45238.23972222222,
+      "progress_percent": 5
+    },
+    {
+      "user_id": 72101,
+      "user_name": "Fatma",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45275.52107638889,
+      "progress_percent": 88
+    },
+    {
+      "user_id": 38864,
+      "user_name": "Ahmet",
+      "user_surname": "Yıldırım",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45252.78925925926,
+      "progress_percent": 51
+    },
+    {
+      "user_id": 95293,
+      "user_name": "Gülden",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45234.126597222225,
+      "progress_percent": 50
+    },
+    {
+      "user_id": 53970,
+      "user_name": "Ezgi",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45241.78925925926,
+      "progress_percent": 83
+    },
+    {
+      "user_id": 66987,
+      "user_name": "Orhan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45282.52552083333,
+      "progress_percent": 28
+    },
+    {
+      "user_id": 87451,
+      "user_name": "Ceren",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45240.90638888889,
+      "progress_percent": 79
+    },
+    {
+      "user_id": 59886,
+      "user_name": "Ömer",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45256.40052083333,
+      "progress_percent": 100
+    },
+    {
+      "user_id": 47059,
+      "user_name": "Cansu",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45243.23972222222,
+      "progress_percent": 2
+    },
+    {
+      "user_id": 71308,
+      "user_name": "Mehmet",
+      "user_surname": "Yıldırım",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45258.52107638889,
+      "progress_percent": 47
+    },
+    {
+      "user_id": 82713,
+      "user_name": "Ela",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45265.88179398148,
+      "progress_percent": 12
+    },
+    {
+      "user_id": 65392,
+      "user_name": "Ege",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45246.126597222225,
+      "progress_percent": 48
+    },
+    {
+      "user_id": 45928,
+      "user_name": "Gizem",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45291.78925925926,
+      "progress_percent": 96
+    },
+    {
+      "user_id": 80236,
+      "user_name": "Burak",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45253.439050925925,
+      "progress_percent": 31
+    },
+    {
+      "user_id": 58497,
+      "user_name": "Nisa",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45279.73991898148,
+      "progress_percent": 98
+    },
+    {
+      "user_id": 41472,
+      "user_name": "Süleyman",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45239.40052083333,
+      "progress_percent": 34
+    },
+    {
+      "user_id": 75538,
+      "user_name": "Merve",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45247.90638888889,
+      "progress_percent": 85
+    },
+    {
+      "user_id": 64913,
+      "user_name": "Mert",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45284.40052083333,
+      "progress_percent": 67
+    },
+    {
+      "user_id": 51784,
+      "user_name": "Elif",
+      "user_surname": "Koç",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45243.23972222222,
+      "progress_percent": 59
+    },
+    {
+      "user_id": 83201,
+      "user_name": "Taner",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45251.52107638889,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 69408,
+      "user_name": "Merve",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45265.88179398148,
+      "progress_percent": 6
+    },
+    {
+      "user_id": 58740,
+      "user_name": "Muhammet",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45260.126597222225,
+      "progress_percent": 56
+    },
+    {
+      "user_id": 40597,
+      "user_name": "Ekin",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45266.78925925926,
+      "progress_percent": 75
+    },
+    {
+      "user_id": 72065,
+      "user_name": "Yağmur",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45248.439050925925,
+      "progress_percent": 53
+    },
+    {
+      "user_id": 87430,
+      "user_name": "Betül",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45254.73991898148,
+      "progress_percent": 86
+    },
+    {
+      "user_id": 50380,
+      "user_name": "Cem",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45264.40052083333,
+      "progress_percent": 59
+    },
+    {
+      "user_id": 67731,
+      "user_name": "Esra",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45257.23972222222,
+      "progress_percent": 34
+    },
+    {
+      "user_id": 93744,
+      "user_name": "Yasin",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45278.52107638889,
+      "progress_percent": 85
+    },
+    {
+      "user_id": 58234,
+      "user_name": "Ahmet",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45241.90638888889,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 46902,
+      "user_name": "Nil",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45249.40052083333,
+      "progress_percent": 89
+    },
+    {
+      "user_id": 71359,
+      "user_name": "Sevil",
+      "user_surname": "Yıldırım",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45269.28010416667,
+      "progress_percent": 96
+    },
+    {
+      "user_id": 52974,
+      "user_name": "Baran",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45243.88179398148,
+      "progress_percent": 12
+    },
+    {
+      "user_id": 64530,
+      "user_name": "Belgin",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45255.5859375,
+      "progress_percent": 86
+    },
+    {
+      "user_id": 41827,
+      "user_name": "Yasin",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45277.78925925926,
+      "progress_percent": 7
+    },
+    {
+      "user_id": 87001,
+      "user_name": "Büşra",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45256.52107638889,
+      "progress_percent": 10
+    },
+    {
+      "user_id": 61182,
+      "user_name": "Yavuz",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45232.57958333333,
+      "progress_percent": 90
+    },
+    {
+      "user_id": 50614,
+      "user_name": "Büşra",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45272.28010416667,
+      "progress_percent": 44
+    },
+    {
+      "user_id": 77583,
+      "user_name": "Mustafa",
+      "user_surname": "Aydoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45258.88179398148,
+      "progress_percent": 65
+    },
+    {
+      "user_id": 48906,
+      "user_name": "Emre",
+      "user_surname": "Yıldırım",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45235.45329861111,
+      "progress_percent": 50
+    },
+    {
+      "user_id": 68745,
+      "user_name": "Zeynep",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45261.73991898148,
+      "progress_percent": 49
+    },
+    {
+      "user_id": 39282,
+      "user_name": "Kerem",
+      "user_surname": "Koç",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45248.39738425926,
+      "progress_percent": 41
+    },
+    {
+      "user_id": 95720,
+      "user_name": "Zehra",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45252.08792824074,
+      "progress_percent": 1
+    },
+    {
+      "user_id": 51597,
+      "user_name": "Gökhan",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45289.57958333333,
+      "progress_percent": 76
+    },
+    {
+      "user_id": 63914,
+      "user_name": "Gözde",
+      "user_surname": "Aydoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45254.40052083333,
+      "progress_percent": 64
+    },
+    {
+      "user_id": 87436,
+      "user_name": "Erkan",
+      "user_surname": "Yıldırım",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45269.90638888889,
+      "progress_percent": 31
+    },
+    {
+      "user_id": 50893,
+      "user_name": "Ece",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45247.52107638889,
+      "progress_percent": 62
+    },
+    {
+      "user_id": 71620,
+      "user_name": "Tarkan",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45282.88179398148,
+      "progress_percent": 43
+    },
+    {
+      "user_id": 48509,
+      "user_name": "Selin",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45233.23972222222,
+      "progress_percent": 0
+    },
+    {
+      "user_id": 73185,
+      "user_name": "Sercan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45270.52552083333,
+      "progress_percent": 49
+    },
+    {
+      "user_id": 59721,
+      "user_name": "Nida",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45259.78925925926,
+      "progress_percent": 27
+    },
+    {
+      "user_id": 82640,
+      "user_name": "Nihal",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45265.126597222225,
+      "progress_percent": 84
+    },
+    {
+      "user_id": 54960,
+      "user_name": "Ceyda",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45244.84853009259,
+      "progress_percent": 25
+    },
+    {
+      "user_id": 37245,
+      "user_name": "Özgür",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45231.90638888889,
+      "progress_percent": 6
+    },
+    {
+      "user_id": 92580,
+      "user_name": "Şeyma",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45256.40052083333,
+      "progress_percent": 83
+    },
+    {
+      "user_id": 61683,
+      "user_name": "Bahadır",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45264.23972222222,
+      "progress_percent": 49
+    },
+    {
+      "user_id": 48236,
+      "user_name": "Merve",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45240.52107638889,
+      "progress_percent": 26
+    },
+    {
+      "user_id": 76859,
+      "user_name": "Mustafa",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45287.88179398148,
+      "progress_percent": 1
+    },
+    {
+      "user_id": 39482,
+      "user_name": "Zeynep",
+      "user_surname": "Aydoğan",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45243.126597222225,
+      "progress_percent": 73
+    },
+    {
+      "user_id": 98154,
+      "user_name": "Alp",
+      "user_surname": "Koç",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45252.78925925926,
+      "progress_percent": 39
+    },
+    {
+      "user_id": 53821,
+      "user_name": "Ezgi",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45263.439050925925,
+      "progress_percent": 61
+    },
+    {
+      "user_id": 71598,
+      "user_name": "Yücel",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45275.73991898148,
+      "progress_percent": 13
+    },
+    {
+      "user_id": 89450,
+      "user_name": "Emine",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45239.5859375,
+      "progress_percent": 71
+    },
+    {
+      "user_id": 48295,
+      "user_name": "Muhammet",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45250.28010416667,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 60843,
+      "user_name": "Serap",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45286.52552083333,
+      "progress_percent": 93
+    },
+    {
+      "user_id": 76360,
+      "user_name": "Mustafa",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45235.23972222222,
+      "progress_percent": 89
+    },
+    {
+      "user_id": 49708,
+      "user_name": "Cansu",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45241.88179398148,
+      "progress_percent": 77
+    },
+    {
+      "user_id": 63789,
+      "user_name": "Ali",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45280.78925925926,
+      "progress_percent": 55
+    },
+    {
+      "user_id": 81437,
+      "user_name": "Gamze",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45243.52107638889,
+      "progress_percent": 23
+    },
+    {
+      "user_id": 52920,
+      "user_name": "Sedat",
+      "user_surname": "Aydoğan",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45261.90638888889,
+      "progress_percent": 49
+    },
+    {
+      "user_id": 74201,
+      "user_name": "Asuman",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45258.40052083333,
+      "progress_percent": 1
+    },
+    {
+      "user_id": 50316,
+      "user_name": "Cemil",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45274.23972222222,
+      "progress_percent": 19
+    },
+    {
+      "user_id": 67891,
+      "user_name": "Bilge",
+      "user_surname": "Aydoğan",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45238.88179398148,
+      "progress_percent": 72
+    },
+    {
+      "user_id": 44943,
+      "user_name": "Serkan",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45262.439050925925,
+      "progress_percent": 37
+    },
+    {
+      "user_id": 89744,
+      "user_name": "Büşra",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45252.73991898148,
+      "progress_percent": 3
+    },
+    {
+      "user_id": 61578,
+      "user_name": "Hayriye",
+      "user_surname": "Aydoğan",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45268.126597222225,
+      "progress_percent": 17
+    },
+    {
+      "user_id": 77437,
+      "user_name": "Göktürk",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45249.84853009259,
+      "progress_percent": 7
+    },
+    {
+      "user_id": 52969,
+      "user_name": "Elif",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45254.15033564815,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 68526,
+      "user_name": "Hakan",
+      "user_surname": "Koç",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45290.52552083333,
+      "progress_percent": 35
+    },
+    {
+      "user_id": 45986,
+      "user_name": "Melike",
+      "user_surname": "Aydoğan",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45234.88179398148,
+      "progress_percent": 85
+    },
+    {
+      "user_id": 63708,
+      "user_name": "Yasin",
+      "user_surname": "Koç",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45270.78925925926,
+      "progress_percent": 77
+    },
+    {
+      "user_id": 80523,
+      "user_name": "Gamze",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45244.52107638889,
+      "progress_percent": 59
+    },
+    {
+      "user_id": 57949,
+      "user_name": "Hüseyin",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45281.90638888889,
+      "progress_percent": 100
+    },
+    {
+      "user_id": 39885,
+      "user_name": "Asuman",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45259.126597222225,
+      "progress_percent": 92
+    },
+    {
+      "user_id": 96034,
+      "user_name": "Kürşat",
+      "user_surname": "Yıldırım",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45236.40052083333,
+      "progress_percent": 65
+    },
+    {
+      "user_id": 51942,
+      "user_name": "Gözde",
+      "user_surname": "Aydoğan",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45274.23972222222,
+      "progress_percent": 0
+    },
+    {
+      "user_id": 73301,
+      "user_name": "Mehmet",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45232.439050925925,
+      "progress_percent": 24
+    },
+    {
+      "user_id": 69726,
+      "user_name": "Yasemin",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45277.73991898148,
+      "progress_percent": 38
+    },
+    {
+      "user_id": 45068,
+      "user_name": "Selin",
+      "user_surname": "Koç",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45256.439050925925,
+      "progress_percent": 97
+    },
+    {
+      "user_id": 82947,
+      "user_name": "Koray",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45267.23972222222,
+      "progress_percent": 31
+    },
+    {
+      "user_id": 59159,
+      "user_name": "Büşra",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45243.88179398148,
+      "progress_percent": 16
+    },
+    {
+      "user_id": 70555,
+      "user_name": "Emirhan",
+      "user_surname": "Aydoğan",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45284.52107638889,
+      "progress_percent": 47
+    },
+    {
+      "user_id": 88456,
+      "user_name": "Hüseyin",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45233.90638888889,
+      "progress_percent": 99
+    },
+    {
+      "user_id": 51167,
+      "user_name": "Ela",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45290.28010416667,
+      "progress_percent": 85
+    },
+    {
+      "user_id": 66827,
+      "user_name": "Yasemin",
+      "user_surname": "Koç",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45249.78925925926,
+      "progress_percent": 91
+    },
+    {
+      "user_id": 78465,
+      "user_name": "Berkay",
+      "user_surname": "Yıldırım",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45257.52107638889,
+      "progress_percent": 4
+    },
+    {
+      "user_id": 57906,
+      "user_name": "Fatih",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45272.88179398148,
+      "progress_percent": 19
+    },
+    {
+      "user_id": 37194,
+      "user_name": "Meltem",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45232.78925925926,
+      "progress_percent": 17
+    },
+    {
+      "user_id": 75950,
+      "user_name": "Yusuf",
+      "user_surname": "Aydoğan",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45278.40052083333,
+      "progress_percent": 53
+    },
+    {
+      "user_id": 48721,
+      "user_name": "Şeyma",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45239.23972222222,
+      "progress_percent": 98
+    },
+    {
+      "user_id": 63749,
+      "user_name": "Cem",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45286.88179398148,
+      "progress_percent": 99
+    },
+    {
+      "user_id": 90856,
+      "user_name": "Gözde",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45246.52107638889,
+      "progress_percent": 90
+    },
+    {
+      "user_id": 54361,
+      "user_name": "Gizem",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45234.90638888889,
+      "progress_percent": 29
+    },
+    {
+      "user_id": 77285,
+      "user_name": "Mehmet",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45291.78925925926,
+      "progress_percent": 6
+    },
+    {
+      "user_id": 51640,
+      "user_name": "Zara",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45236.439050925925,
+      "progress_percent": 2
+    },
+    {
+      "user_id": 70151,
+      "user_name": "Mert",
+      "user_surname": "Yıldırım",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45283.23972222222,
+      "progress_percent": 57
+    },
+    {
+      "user_id": 49174,
+      "user_name": "Nilay",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45241.52107638889,
+      "progress_percent": 82
+    },
+    {
+      "user_id": 77513,
+      "user_name": "Batuhan",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45282.78925925926,
+      "progress_percent": 69
+    },
+    {
+      "user_id": 53658,
+      "user_name": "Merve",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45247.88179398148,
+      "progress_percent": 21
+    },
+    {
+      "user_id": 90846,
+      "user_name": "Elif",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45264.15033564815,
+      "progress_percent": 0
+    },
+    {
+      "user_id": 69987,
+      "user_name": "Korhan",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45238.60402777778,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 57243,
+      "user_name": "Büşra",
+      "user_surname": "Yıldırım",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45289.40052083333,
+      "progress_percent": 68
+    },
+    {
+      "user_id": 82664,
+      "user_name": "Serkan",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45233.52552083333,
+      "progress_percent": 23
+    },
+    {
+      "user_id": 50049,
+      "user_name": "Gizem",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45275.84853009259,
+      "progress_percent": 24
+    },
+    {
+      "user_id": 68160,
+      "user_name": "Tarık",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45239.126597222225,
+      "progress_percent": 40
+    },
+    {
+      "user_id": 46575,
+      "user_name": "Zeynep",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45277.73991898148,
+      "progress_percent": 66
+    },
+    {
+      "user_id": 78248,
+      "user_name": "Fatma",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45240.52107638889,
+      "progress_percent": 14
+    },
+    {
+      "user_id": 54434,
+      "user_name": "Kerem",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45266.88179398148,
+      "progress_percent": 32
+    },
+    {
+      "user_id": 36987,
+      "user_name": "Ceyda",
+      "user_surname": "Koç",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45243.23972222222,
+      "progress_percent": 47
+    },
+    {
+      "user_id": 77812,
+      "user_name": "Baran",
+      "user_surname": "Yıldırım",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45288.52552083333,
+      "progress_percent": 7
+    },
+    {
+      "user_id": 55410,
+      "user_name": "Süleyman",
+      "user_surname": "Koç",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45235.78925925926,
+      "progress_percent": 80
+    },
+    {
+      "user_id": 74118,
+      "user_name": "Gözde",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45261.126597222225,
+      "progress_percent": 20
+    },
+    {
+      "user_id": 51939,
+      "user_name": "Berkay",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45244.84853009259,
+      "progress_percent": 55
+    },
+    {
+      "user_id": 87244,
+      "user_name": "Melis",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45289.439050925925,
+      "progress_percent": 24
+    },
+    {
+      "user_id": 60209,
+      "user_name": "Mert",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45231.40052083333,
+      "progress_percent": 11
+    },
+    {
+      "user_id": 76884,
+      "user_name": "Melike",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45283.28010416667,
+      "progress_percent": 23
+    },
+    {
+      "user_id": 53185,
+      "user_name": "Semih",
+      "user_surname": "Koç",
+      "simulation_id": 52,
+      "simulation_name": "Getmobil: Dijital Rönesans",
+      "signup_datetime": 45238.90638888889,
+      "progress_percent": 68
+    },
+    {
+      "user_id": 84526,
+      "user_name": "Melis",
+      "user_surname": "Yıldırım",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45276.52107638889,
+      "progress_percent": 80
+    },
+    {
+      "user_id": 58613,
+      "user_name": "Alp",
+      "user_surname": "Koç",
+      "simulation_id": 67,
+      "simulation_name": "Fiddle Meal: Operasyon: Beslenme",
+      "signup_datetime": 45245.88179398148,
+      "progress_percent": 33
+    },
+    {
+      "user_id": 48719,
+      "user_name": "Gözde",
+      "user_surname": "Yıldırım",
+      "simulation_id": 22,
+      "simulation_name": "Lonca: The Wholesale Redefined",
+      "signup_datetime": 45290.73991898148,
+      "progress_percent": 90
+    },
+    {
+      "user_id": 70331,
+      "user_name": "Beril",
+      "user_surname": "Koç",
+      "simulation_id": 18,
+      "simulation_name": "L'Oréal: Content Dilemma",
+      "signup_datetime": 45233.439050925925,
+      "progress_percent": 2
+    },
+    {
+      "user_id": 56650,
+      "user_name": "Melih",
+      "user_surname": "Yıldırım",
+      "simulation_id": 43,
+      "simulation_name": "Arabam.com: Son Sürat Büyüme",
+      "signup_datetime": 45281.78925925926,
+      "progress_percent": 7
+    },
+    {
+      "user_id": 82406,
+      "user_name": "Ceren",
+      "user_surname": "Koç",
+      "simulation_id": 76,
+      "simulation_name": "Proludus: Labirent",
+      "signup_datetime": 45237.126597222225,
+      "progress_percent": 100
+    },
+    {
+      "user_id": 51953,
+      "user_name": "Ercan",
+      "user_surname": "Yıldırım",
+      "simulation_id": 99,
+      "simulation_name": "H Company: Bu Sefer Kesin Patladık",
+      "signup_datetime": 45284.40052083333,
+      "progress_percent": 67
+    },
+    {
+      "user_id": 76389,
+      "user_name": "Süleyman",
+      "user_surname": "Koç",
+      "simulation_id": 33,
+      "simulation_name": "Bain & Company: Entering the Cryptosphere",
+      "signup_datetime": 45238.23972222222,
+      "progress_percent": 99
+    }
+  ]
+}
