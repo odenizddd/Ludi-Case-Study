@@ -24,7 +24,7 @@ Change directory to info_panel
 
 Start the server with
 
-**`python manage.pyrunserver`**
+**`python manage.py runserver`**
 
 
 You should see the application at http://127.0.0.1:8000/
